@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35a2b77e-c1e5-4e5c-ab87-6134d29ab276" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/components/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/components/Gallery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/components/Image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/components/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/components/LoginForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/components/LogoutForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/components/NavigationBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/context/PictureContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/frontend-react/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/scripts-sql/create-products.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/scripts-sql/create-user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/ProductApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/conf/HttpSessionConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/conf/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/controller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/controller/SinglePageAppController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/dao/ProductCategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/dao/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/com/mikecode/product/entity/ProductCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/greeting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/images/arthur-yfIVHbP5QaA-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/images/baptiste-jZhQJsSKgOk-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/images/benjamin-ashton-1mwPOXb_pB8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/images/daniel-eledut-pRWB9Ayeu1k-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/images/george-hiles-QpdPLHYoKTk-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/images/matt-thornhill-Shtg0KZyo3Q-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/images/quinton-coetzee-BWeR30r0FYQ-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/images/thomas-tucker-0CALbyz5wEM-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/images/timon-studler-1xJ3qTjAJU8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/resources/static/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/test/java/com/mikecode/product/ProductApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/test/java/com/mikecode/product/ProductRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/test/java/com/mikecode/product/UserControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/java/com/mikecode/ProductApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/java/com/mikecode/conf/HttpSessionConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/java/com/mikecode/conf/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/java/com/mikecode/dao/ProductCategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/java/com/mikecode/dao/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/java/com/mikecode/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/java/com/mikecode/entity/ProductCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/public/images/arthur-yfIVHbP5QaA-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/public/images/baptiste-jZhQJsSKgOk-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/public/images/benjamin-ashton-1mwPOXb_pB8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/public/images/daniel-eledut-pRWB9Ayeu1k-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/public/images/george-hiles-QpdPLHYoKTk-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/public/images/matt-thornhill-Shtg0KZyo3Q-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/public/images/quinton-coetzee-BWeR30r0FYQ-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/public/images/thomas-tucker-0CALbyz5wEM-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/main/resources/public/images/timon-studler-1xJ3qTjAJU8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/resource/src/test/java/com/product/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/scripts-sql/create-products.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/scripts-sql/create-user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/components/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/components/Gallery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/components/Image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/components/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/components/Loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/components/LoginForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/components/LogoutForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/components/NoImages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/context/PictureContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/frontend-react/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/java/com/product/ProductApplicationUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/java/com/product/config/CorsConfigUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/java/com/product/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/java/com/product/controller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/java/com/product/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/java/com/product/controller/HomeControllerStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/resources/public/greeting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/resources/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/main/resources/static/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-session/ui/src/test/java/com/product/ProductApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/src/main/java/com/mikecode/product/ProductApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/src/main/java/com/mikecode/product/dao/ProductCategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/src/main/java/com/mikecode/product/dao/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/src/main/java/com/mikecode/product/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/src/main/java/com/mikecode/product/entity/ProductCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/resource/src/test/java/com/mikecode/product/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/scripts-sql/create-products.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/scripts-sql/create-user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/components/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/components/Gallery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/components/Image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/components/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/components/Loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/components/LoginForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/components/LogoutForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/components/NoImages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/context/PictureContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/frontend-react/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/java/com/mikecode/product/GreetingControllerStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/java/com/mikecode/product/ProductApplicationUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/java/com/mikecode/product/config/CorsConfigUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/java/com/mikecode/product/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/java/com/mikecode/product/controller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/java/com/mikecode/product/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/greeting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/photo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/photo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/photo3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/photo4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/photo5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/photo6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/photo7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/photo8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/public/photo9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/static/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/templates/greeting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/ui/src/test/java/com/mikecode/product/ProductApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yGlgBYmAgLDjks1yxOpVTCoHQc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="exemple-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mikecode.product.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a2b77e-c1e5-4e5c-ab87-6134d29ab276" name="Changes" comment="" />
+      <created>1631885918297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631885918297</updated>
+      <workItem from="1631885921592" duration="438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
